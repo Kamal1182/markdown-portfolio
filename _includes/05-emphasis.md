@@ -3,9 +3,9 @@
 
 ## Programing languages
 - sdkfl
-- sjkldfj
+- _sjkldfj
 - fjasl
 
 ## Collaboration
-- slkdjf
+- **slkdjf
 - dsjl
