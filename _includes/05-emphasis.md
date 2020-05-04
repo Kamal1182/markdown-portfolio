@@ -3,9 +3,12 @@
 
 ## Programing languages
 - sdkfl
-- _sjkldfj
+- sjkldfj
 - fjasl
 
 ## Collaboration
-- **slkdjf
+- slkdjf
 - dsjl
+
+This is _italic_
+This is **Bold**
